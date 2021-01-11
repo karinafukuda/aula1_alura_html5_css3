@@ -11,6 +11,7 @@ body {
 .titulo-principal {
     padding-left: 20px;
 }
+
 .apresentacao {
     background: #cccccc;
     padding: 30px;
@@ -21,6 +22,7 @@ body {
     text-align: center;
     font-size: 25px;
 }
+
 p {
     text-align: center;
 }
@@ -28,7 +30,7 @@ p {
 em strong {
     color: #30706F;
 }
-}
+
 #missao {
     font-size: 20px;
 }
